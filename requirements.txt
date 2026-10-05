@@ -1,4 +1,8 @@
+
+Cython>=3.0.0
+numpy==1.26.4
 python-telegram-bot==20.7
 Flask==2.3.3
 requests==2.31.0
 pandas==2.1.1
+gunicorn==21.2.0
